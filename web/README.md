@@ -16,7 +16,7 @@
 <p style="text-align: center;">O objetivo do projeto é conectar pessoas e orfanatos, facilitando as visitas.</p>
 
 ## Visualização
-> Projeto desenvolvido na semana [NLW3](https://nextlevelweek.com) - Rocketseat
+ - [Preview - Netlify](https://joaofeliperomano-nlw3-happy.netlify.app/)
 
 ## Instalação
 
