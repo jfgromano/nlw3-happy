@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+    --blue: #15C3D6;
+    --blueligth:#96FEFF;
+    --yellow:#FFD666;
+    --yellow-dark: #8D734B;
+    --white: #ffff;
+    --gray: #D3E2E5;
+    --green: #37C77F;
+    --green-dark: #3EE08F;
+    --text-title: #4D6F80;
+    --text-components: #8FA7B2;
+}
+
+body{
+    color: var(--white);
+    background: var(--gray);
+}
+
+body, input, button, textarea{
+    font: 600 1em Nunito, sans-serif
+}
