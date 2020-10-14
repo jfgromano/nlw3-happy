@@ -27,4 +27,6 @@
 
 * Dia 1
     * Criamos toda a estrutura do projeto front-end com React e algumas telas iniciais
+* Dia 2
+    * API backend utilizando Node.Js
 
