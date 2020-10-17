@@ -1,7 +1,7 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
 }
 
 :root{
@@ -11,6 +11,7 @@
     --yellow:#FFD666;
     --yellow-dark: #8D734B;
     --white: #ffff;
+    --white-transparent: rgba(255, 255, 255, 0.8);
     --gray: #D3E2E5;
     --green: #37C77F;
     --green-dark: #3EE08F;
