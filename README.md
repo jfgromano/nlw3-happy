@@ -22,6 +22,7 @@
 - React
 - Node.js
 - Leaflet + Mapbox (Mapas)
+- React Native + Expo (Mobile)
 
 ## Histórico de progresso
 
@@ -31,3 +32,5 @@
     * API backend utilizando Node.Js
 * Dia 3
     * Finalizacao do front-end projeto web
+* Dia 4
+    * Criamos toda a estrutura do projeto mobile com React Native e expo.
