@@ -17,6 +17,8 @@
 
 ## Navegação
  - [Web](./web/README.md)
+ - [Mobile](./mobile/README.md)
+ - [BackEnd](./backend/README.md)
 
 ## Tecnologias utilizadas
 - React
