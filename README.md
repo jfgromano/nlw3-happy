@@ -16,9 +16,9 @@
 <p style="text-align: center;">O objetivo do projeto é conectar pessoas e orfanatos, facilitando as visitas.</p>
 
 ## Navegação
- - [Web](./web/README.md)
- - [Mobile](./mobile/README.md)
- - [BackEnd](./backend/README.md)
+ - [Web](./web/)
+ - [Mobile](./mobile/)
+ - [BackEnd](./backend/)
 
 ## Tecnologias utilizadas
 - React
